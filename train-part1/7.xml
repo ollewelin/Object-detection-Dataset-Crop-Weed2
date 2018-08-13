@@ -1,0 +1,50 @@
+<annotation>
+	<folder>data xml</folder>
+	<filename>7.jpg</filename>
+	<path>/home/olle/data xml/7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>858</width>
+		<height>644</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crop</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>650</xmin>
+			<ymin>242</ymin>
+			<xmax>858</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>260</ymin>
+			<xmax>524</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>286</ymin>
+			<xmax>43</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>
