@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data xml</folder>
+	<filename>174.jpg</filename>
+	<path>/home/olle/data xml/174.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>858</width>
+		<height>644</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>226</ymin>
+			<xmax>397</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>385</ymin>
+			<xmax>155</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data xml</folder>
+	<filename>171.jpg</filename>
+	<path>/home/dator222/tensorflow/models-master/research/object_detection/crops-weed-images/data xml/171.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>858</width>
+		<height>644</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>179</ymin>
+			<xmax>653</xmax>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crop</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>509</ymin>
+			<xmax>858</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+</annotation>
