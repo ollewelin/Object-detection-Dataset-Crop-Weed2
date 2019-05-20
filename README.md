@@ -6,3 +6,6 @@ Then I change my model and used
 faster_rcnn_resnet50_coco
 instead of the
 ssd_mobilenet_v1_coco
+
+Also see but here I was used ssd_... Model
+https://github.com/ollewelin/Tensorflow-Object-Detection
