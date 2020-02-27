@@ -9,3 +9,5 @@ ssd_mobilenet_v1_coco
 
 Also see but here I was used ssd_... Model
 https://github.com/ollewelin/Tensorflow-Object-Detection
+
+https://www.youtube.com/watch?v=j9EDPkt-_H8
