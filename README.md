@@ -12,3 +12,6 @@ https://github.com/ollewelin/Tensorflow-Object-Detection
 
 My test result here
 https://www.youtube.com/watch?v=j9EDPkt-_H8
+
+# PyTorch guide instead of TensorFlow
+https://github.com/ollewelin/pytorch_object_detection_sorting_robot
